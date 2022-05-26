@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="smiley">😂</string>
+    <string name="bomb">💣</string>
+    <string name="flag">⚑</string>
+    <string name="points">000</string>
+    <string name="time">000</string>
+    <string name="default_count">000</string>
+    <string name="flag_count">000</string>
+
+
+</resources>
